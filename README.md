@@ -1,4 +1,4 @@
-## Hi, I'm Michael
+ ## Hi, I'm Michael
 
 I'm a Full Stack Dev/ DevOps Eng/ SysAdmin with special interests in social psychology, marketing and parasociality
 
